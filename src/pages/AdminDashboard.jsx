@@ -17,9 +17,7 @@ import {
   XAxis,
   YAxis,
   Tooltip,
-  ResponsiveContainer,
-  LineChart,
-  Line
+  ResponsiveContainer
 } from "recharts";
 
 import { motion } from "framer-motion";
